@@ -1,0 +1,31 @@
+{
+  "configurations" : [
+    {
+      "id" : "BBF7037A-108D-4543-B5FE-243FCE4510C4",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "performanceAntipatternCheckerEnabled" : true,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:SpendingTracker.xcodeproj",
+      "identifier" : "1C01E8BE30B12D1500DC4567",
+      "name" : "SpendingTracker"
+    },
+    "testInteropMode" : "complete"
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:SpendingTracker.xcodeproj",
+        "identifier" : "1CB91E5E30B231A800485ACF",
+        "name" : "SpendingTrackerTests"
+      }
+    }
+  ],
+  "version" : 1
+}

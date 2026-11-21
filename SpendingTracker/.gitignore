@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Xcode per-user settings (window state, scheme selection, breakpoints)
+xcuserdata/
+*.xcuserstate
+
+# Build output
+build/
+DerivedData/
+*.xcresult
+
+# Swift Package Manager
+.build/
+.swiftpm/
